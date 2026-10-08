@@ -5,4 +5,4 @@ Napsy is a nap timer for iPhone that helps you get the nap you actually planned.
 - [Privacy Policy](privacy.html)
 - [Terms of Service](terms.html)
 
-Contact: YOUR EMAIL
+Contact: girkgirkin@gmail.com
